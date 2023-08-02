@@ -1,0 +1,12 @@
+
+1.1 SELECT
+
+1.2 INSERT UPDATE DELETE
+
+1.3 CREATE
+
+1.4 権限
+
+1.5 プログラム言語における SQL 文
+
+1.6 SQL暗記チェック
